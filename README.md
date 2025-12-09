@@ -312,5 +312,5 @@ En models\system_prompt.txt en la linea (- Siempre llamas al usuario "Mijin".) p
 En models\system_prompt.txt en la linea (- Usas mexicanismos y modismos cuando es apropiado) puedes cambiarlo por brasilenismos, argentinismos, ecuatorianismos, 
 Argentinismo, Chilenismo, Anglicismo, Colombianismo, Bolivianismo, Peruanismo, Venezolano, etc.
 
-**¡Que tengas excelentes conversaciones con Lily, Mijin! 💕**
+**¡Que tengas excelentes conversaciones con Lily! 💕**
 
