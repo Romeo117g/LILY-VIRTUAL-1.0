@@ -301,7 +301,7 @@ Si encuentras problemas:
 
 ## 📜 Licencia
 
-Este proyecto es de uso personal y educativo.
+Este proyecto está bajo la **Licencia MIT**. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ## 🎉 ¡Disfruta de Lily!
 
